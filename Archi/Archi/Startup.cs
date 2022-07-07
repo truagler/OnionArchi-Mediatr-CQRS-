@@ -4,7 +4,6 @@ using Archi.Domain.Service;
 using Archi.Infrostructure.Context;
 using Archi.Infrostructure.Repository;
 using Archi.Infrostructure.Service;
-using Archi.Infrostructure.Tools;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
